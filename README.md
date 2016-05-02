@@ -1,4 +1,4 @@
+# ReduxRouterApp
 # Redux boilerplate with Webpack
 
 Modified from [here](https://github.com/StephenGrider/ReactStarter)
-# ReduxRouterApp
